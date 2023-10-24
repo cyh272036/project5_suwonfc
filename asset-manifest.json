@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/project5_suwonfc/static/css/main.ce905840.css",
-    "main.js": "/project5_suwonfc/static/js/main.deca7692.js",
+    "main.js": "/project5_suwonfc/static/js/main.6dd3e04d.js",
     "static/js/787.4cf5294d.chunk.js": "/project5_suwonfc/static/js/787.4cf5294d.chunk.js",
     "static/media/bg.jpeg": "/project5_suwonfc/static/media/bg.c4b55fa2b28c9ce48800.jpeg",
     "static/media/logo.png": "/project5_suwonfc/static/media/logo.6f44a14b93484eb820ce.png",
     "static/media/banner.jpeg": "/project5_suwonfc/static/media/banner.cfd65dbf11447efdd857.jpeg",
     "index.html": "/project5_suwonfc/index.html",
     "main.ce905840.css.map": "/project5_suwonfc/static/css/main.ce905840.css.map",
-    "main.deca7692.js.map": "/project5_suwonfc/static/js/main.deca7692.js.map",
+    "main.6dd3e04d.js.map": "/project5_suwonfc/static/js/main.6dd3e04d.js.map",
     "787.4cf5294d.chunk.js.map": "/project5_suwonfc/static/js/787.4cf5294d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce905840.css",
-    "static/js/main.deca7692.js"
+    "static/js/main.6dd3e04d.js"
   ]
 }
